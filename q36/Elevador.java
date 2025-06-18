@@ -1,9 +1,9 @@
-package lista.q36;
+package q36;
 
 public class Elevador {
     private int andarAtual = 0;
-    private int totalAndares;
-    private int capacidade;
+    private final int totalAndares;
+    private final int capacidade;
     private int pessoasPresentes = 0;
 
     public Elevador(int capacidade, int totalAndares) {

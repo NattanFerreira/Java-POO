@@ -1,4 +1,4 @@
-package lista.q37;
+package q37;
 
 public class DemoContador {
     public static void main(String[] args) {

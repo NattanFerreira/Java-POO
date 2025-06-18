@@ -1,7 +1,7 @@
 package q65;
 
 public class Assistente extends Funcionario {
-    private int matricula;
+    private final int matricula;
 
     public Assistente(String nome, float salario, int matricula) {
         super(nome, salario);

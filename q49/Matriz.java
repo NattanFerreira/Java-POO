@@ -1,4 +1,4 @@
-package lista.q49;
+package q49;
 
 public class Matriz {
     private final float [][] matriz;

@@ -1,4 +1,4 @@
-package lista.q36;
+package q36;
 
 public class DemoElevador {
     public static void main(String[] args) {

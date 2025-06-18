@@ -1,7 +1,7 @@
 package q65;
 
 public class Funcionario {
-    private String nome;
+    private final String nome;
     private float salario;
     
     public Funcionario(String nome, float salario) {
@@ -29,6 +29,5 @@ public class Funcionario {
     public float getSalario() {
         return salario;
     }
-    
 
 }

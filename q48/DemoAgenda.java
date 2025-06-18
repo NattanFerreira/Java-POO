@@ -1,5 +1,4 @@
-package lista.q48;
-
+package q48;
 public class DemoAgenda {
     public static void main(String[] args) {
         Agenda a = new Agenda();

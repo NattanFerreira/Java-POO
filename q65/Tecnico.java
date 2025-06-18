@@ -1,7 +1,7 @@
 package q65;
 
 public class Tecnico extends Assistente {
-    private float bonusSalarial;
+    private final float bonusSalarial;
 
     public Tecnico(String nome, float salario, int matricula, float bonusSalarial) {
         super(nome, salario, matricula);

@@ -1,4 +1,4 @@
-package lista.q48;
+package q48;
 
 import java.util.ArrayList;
 

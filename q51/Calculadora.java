@@ -1,6 +1,6 @@
-package lista.q51;
+package q51;
 
-public class calculadora {
+public class Calculadora {
     private double prod = 1;
     public double produto(double...numeros){
         if(numeros.length == 0){

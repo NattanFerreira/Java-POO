@@ -1,8 +1,8 @@
 package q65;
 
 public class Administrativo extends Assistente {
-    private boolean turno;
-    private float adicionalNoturno;
+    private final boolean turno;
+    private final float adicionalNoturno;
 
     public Administrativo(String nome, float salario, int matricula, boolean turno, float adicionalNoturno) {
         super(nome, salario, matricula);

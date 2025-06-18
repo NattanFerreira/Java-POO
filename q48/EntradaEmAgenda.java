@@ -1,4 +1,4 @@
-package lista.q48;
+package q48;
 
 public class EntradaEmAgenda {
     private final int hora, dia, mes, ano;

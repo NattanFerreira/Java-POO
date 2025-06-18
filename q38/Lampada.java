@@ -1,4 +1,4 @@
-package lista.q38;
+package q38;
 public class Lampada {
     private boolean estadoDaLampada;
     

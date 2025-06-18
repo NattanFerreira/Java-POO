@@ -1,8 +1,8 @@
 package q62;
 
 public class DataHora {
-    private int dia, mes, ano;
-    private String hora;
+    private final int dia, mes, ano;
+    private final String hora;
 
     public DataHora(int dia, int mes, int ano, String hora) {
         this.dia = dia;

@@ -1,4 +1,4 @@
-package lista.q39;
+package q39;
 
 public class DemoComplexo {
     public static void main(String[] args) {

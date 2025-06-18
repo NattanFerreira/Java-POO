@@ -1,4 +1,4 @@
-package lista.q38;
+package q38;
 import java.util.Scanner;
 
 public class DemoLampada {

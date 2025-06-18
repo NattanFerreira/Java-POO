@@ -1,4 +1,4 @@
-package lista.q39;
+package q39;
 public class Complexo {
     private double parteReal;
     private double parteImaginaria;
