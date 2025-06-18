@@ -1,8 +1,8 @@
 package q48;
 
 public class EntradaEmAgenda {
-    private int hora, dia, mes, ano;
-    private String assunto;
+    private final int hora, dia, mes, ano;
+    private final String assunto;
     
     public EntradaEmAgenda(int hora, int dia, int mes, int ano, String assunto) {
         this.hora = hora;
@@ -16,9 +16,10 @@ public class EntradaEmAgenda {
         return dia == this.dia && mes == this.mes && ano == this.ano;
     }
 
+
     @Override
     public String toString() {
-        return "hora = " + hora + ", mes = " + mes + ", ano = " + ano + ", assunto = " + assunto;
+        return "hora = " + hora + " dia = " + dia + ", mes = " + mes + ", ano = " + ano + ", assunto = " + assunto;
     }
     
 }
