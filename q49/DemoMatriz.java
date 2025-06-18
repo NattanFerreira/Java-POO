@@ -1,4 +1,4 @@
-package q49;
+package lista.q49;
 
 import java.util.Scanner;
 

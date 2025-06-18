@@ -1,4 +1,4 @@
-package q50;
+package lista.q50;
 
 public class Cliente {
     private int id;

@@ -1,4 +1,4 @@
-package q51;
+package lista.q51;
 
 public class calculadora {
     private double prod = 1;

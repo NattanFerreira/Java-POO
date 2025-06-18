@@ -1,4 +1,4 @@
-package q50;
+package lista.q50;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class DemoCliente {
     public static void main(String[] args) {
         ArrayList<Cliente> clientes = new ArrayList<>();
-        int id = 0; 
+        int id; 
         int idade;
         String telefone, nome;
         Scanner sc = new Scanner(System.in);
