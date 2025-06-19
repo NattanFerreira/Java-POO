@@ -22,5 +22,5 @@ Bem-vindo ao meu repositório com as resoluções dos exercícios da disciplina 
 ### 👨‍💻 Contato
 
 * **Nome:** [Nattan Ferreira]
-* **Email:** [nattanferreiraloṕes@gmail.com]
+* **Email:** [nattanferreiralopes@gmail.com]
 * **LinkedIn:** [https://www.linkedin.com/in/nattan-ferreira-a900bb282/]
