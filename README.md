@@ -7,20 +7,20 @@ Bem-vindo ao meu repositório com as resoluções dos exercícios da disciplina 
 ### 📚 Sobre a Disciplina
 
 * **Disciplina:** Programação Orientada a Objetos
-* **Professor(a):** [Nome do Professor ou Professora]
-* **Instituição:** [Nome da sua Instituição de Ensino]
-* **Período:** [Semestre/Ano]
+* **Professor(a):** Italo Assis
+* **Instituição:** UFERSA
+* **Período:** 5 Periodo/2025.1
   
 ### 🛠️ Tecnologias Utilizadas
 
-* **Linguagem Principal:** Java (ou C++, Python, etc.)
-* **IDE:** [Sua IDE de preferência, ex: VS Code, IntelliJ, Eclipse]
+* **Linguagem Principal:** Java
+* **IDE:** [VS Code]
 * **Controle de Versão:** Git e GitHub
 
 ---
 
 ### 👨‍💻 Contato
 
-* **Nome:** [Seu Nome Completo]
-* **Email:** [seu.email@exemplo.com]
-* **LinkedIn:** [https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/seu-usuario/)
+* **Nome:** [Nattan Ferreira]
+* **Email:** [nattanferreiraloṕes@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/nattan-ferreira-a900bb282/]
