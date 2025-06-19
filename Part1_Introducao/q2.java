@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class q2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        float n1,n2,n3,media;
+        float n1,n2,n3;
         System.out.println("Soma e media aritmetrica entre 3 numeros");
         System.out.println("Digite o primeiro numero: ");
         n1 = sc.nextFloat();
