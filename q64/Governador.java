@@ -1,7 +1,7 @@
 package q64;
 
 public class Governador extends Politico{
-    private String estado;
+    private final String estado;
 
     public Governador(String nome, int idade, String partido, String estado) {
         super(nome, idade, partido);

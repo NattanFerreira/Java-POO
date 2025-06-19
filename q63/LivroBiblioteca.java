@@ -1,7 +1,7 @@
 package q63;
 
 public class LivroBiblioteca extends Livro {
-    private int id;
+    private final int id;
 
     public LivroBiblioteca(String nome, String autor, String editora, int id) {
         super(nome, autor, editora);

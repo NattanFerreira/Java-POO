@@ -1,7 +1,7 @@
 package q63;
 
 public class LivroLivraria extends Livro {
-    private float preco;
+    private final float preco;
 
     public LivroLivraria(String nome, String autor, String editora, float preco) {
         super(nome, autor, editora);
