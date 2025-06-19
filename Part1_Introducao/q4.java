@@ -10,5 +10,6 @@ public class q4 {
         centigrados = sc.nextDouble();
         fahren = (centigrados * 9/5) + 32;
         System.out.println(centigrados + " Centrigrados = " + fahren + " Fahrenheit");
+        sc.close();
     }
 }
