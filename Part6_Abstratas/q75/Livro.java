@@ -1,8 +1,8 @@
 package q75;
 
 public class Livro {
-    private String titulo, autor;
-    private int numPaginas, anoEdicao;
+    private final String titulo, autor;
+    private final int numPaginas, anoEdicao;
     
     public Livro(String titulo, String autor, int numPaginas, int anoEdicao) {
         this.titulo = titulo;
