@@ -14,6 +14,14 @@ public class Funcionario {
         this.salarioHora = salarioHora;
     }
 
+    public String getNome() {
+        return nome;
+    }
+
+    public float getSalarioHora() {
+        return salarioHora;
+    }
+
     @Override
     public String toString() {
         return "nome=" + nome + ", salarioHora=" + salarioHora;
