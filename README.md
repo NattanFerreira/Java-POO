@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório com as resoluções dos exercícios da disciplina 
 
 * **Disciplina:** Programação Orientada a Objetos
 * **Professor(a):** Italo Assis
-* **Instituição:** UFERSA
+* **Instituição:** UFERSA - PAU DOS FERROS
 * **Período:** 5 Periodo/2025.1
   
 ### 🛠️ Tecnologias Utilizadas
