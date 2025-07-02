@@ -1,6 +1,6 @@
 # Repositório de Resoluções de POO
 
-Bem-vindo ao meu repositório com as resoluções dos exercícios da disciplina de **Programação Orientada a Objetos**. Este espaço foi criado para documentar e compartilhar meu progresso e aprendizado ao longo do curso.
+Bem-vindo ao meu repositório com as resoluções dos exercícios da disciplina de **Programação Orientada a Objetos**. Este espaço foi criado para documentar e compartilhar meu progresso e aprendizado ao longo da disciplina.
 
 ---
 
