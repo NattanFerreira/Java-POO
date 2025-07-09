@@ -17,7 +17,7 @@ public class Inverter {
         lista.add('i');
         lista.add('j');
 
-        for (int i = lista.size()-1;i>=0; i--) {
+        for (int i = lista.size()-1; i>=0; i--) {
             listaInversa.add(lista.get(i));
         }
         System.out.println(listaInversa);

@@ -12,7 +12,7 @@ public class DemoRandom {
         }
         System.out.println("Somas:");
         for(int i = 0; i<11; i++){
-            System.out.println("= "+ (i+2) + ":" + contador[i]);
+            System.out.println((i+2) + ":" + contador[i]);
         }
         }
     }

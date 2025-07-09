@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class DemoCliente {
     public static void main(String[] args) {
-        ArrayList<Cliente> clientes = new ArrayList<Cliente>();
+        ArrayList<Cliente> clientes = new ArrayList<>();
         int id; 
         int idade;
         String telefone, nome;
