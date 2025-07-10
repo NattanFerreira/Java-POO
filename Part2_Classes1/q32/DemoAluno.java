@@ -7,7 +7,9 @@ public class DemoAluno {
         Aluno a3 = new Aluno("Augusto", 2021, 7, 7, 7);
         Aluno a4 = new Aluno("Clarisse", 2024, 0, 4, 2);
 
-        System.out.println((a1.provaFinal(10)>5? "Aprovado": "Reprovado"));
-        System.out.println((a2.media() >= 7? "Aprovado" : "Nao aprovado"));
+        System.out.println((a1.provaFinal(10) > 5 ? "Aprovado" : "Reprovado"));
+        System.out.println((a2.media() >= 7 ? "Aprovado" : "Nao aprovado"));
+        System.out.println(a4);
+        System.out.println(a3);
     }
 }
