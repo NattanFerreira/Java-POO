@@ -1,6 +1,12 @@
 package q38;
 public class Lampada {
     private boolean estadoDaLampada;
+    private Contador ContarAcesas;
+
+    public Lampada(){
+        estadoDaLampada = false;
+        ContarAcesas = new Contador();
+    }
     
     public void acende(){
         if(estadoDaLampada){
@@ -8,6 +14,7 @@ public class Lampada {
         }else {
             estadoDaLampada = true; 
             System.out.println("Lampada On");
+            ContarAcesas.incrementar();
         }
     }
 
@@ -29,5 +36,9 @@ public class Lampada {
 
     public boolean estaLigada(){
         return estadoDaLampada;
+    }
+
+    public int VezesAcesas(){
+        return ContarAcesas.getValor();
     }
 }

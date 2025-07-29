@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class DemoLampada {
     public static void main(String[] args) {
-        int contador = 0;
         Lampada l1 = new Lampada();
         Scanner sc = new Scanner(System.in);
         int op;
@@ -13,12 +12,11 @@ public class DemoLampada {
             op = sc.nextInt();
             if (op == 1) {
                 l1.acende();
-                contador++;
             }else if (op == 2) {
                 l1.apaga();
             }
         }while (op !=0);
-        System.out.println("A lampada foi acesa " + contador + " vezes");
+        System.out.println("A lampada foi acesa " + l1.VezesAcesas() + " vezes");
         sc.close();
     }
 }

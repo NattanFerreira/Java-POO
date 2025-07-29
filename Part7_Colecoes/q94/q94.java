@@ -1,4 +1,4 @@
-package q94;
+package Part7_Colecoes.q94;
 
 import java.util.TreeMap;
 
